@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelphe&label=Profile%20views&color=0e75b6&style=flat" alt="adelphe" /> </p>
 
-- 👀 I’m interested in **In Building Modern Data platforms using DevOps **
+- 👀 I’m interested in **Building Modern Data platforms using DevOps**
 
 - 🌱 I’m currently learning Cloud technologies mainly **Azure data solutions**
 
