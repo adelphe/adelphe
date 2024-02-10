@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adelphe MBATCHI</h1>
-<h3 align="center">Love Data Technologies</h3>
+<h3 align="center">Data Science Technologies enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelphe&label=Profile%20views&color=0e75b6&style=flat" alt="adelphe" /> </p>
 
