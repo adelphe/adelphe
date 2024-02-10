@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adelphe MBATCHI</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">passionated about Data Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelphe&label=Profile%20views&color=0e75b6&style=flat" alt="adelphe" /> </p>
 
-- 👀 I’m interested in **Building Modern Data platforms using DevOps**
+- 👀 I’m interested in **Modern Data platforms technolgies and concepts**
 
-- 🌱 I’m currently learning Cloud technologies mainly **Azure data solutions**
+- 🌱 I’m currently learning Cloud technologies **Azure and AWS data solutions**
 
-- 🌱 I’m currently learning **SQL Server 2019 new features**
-
-- 💬 Ask me about **SQL, SSIS, Power BI and Business Intelligence**
+- 💬 Ask me about **Data engineering and analytics**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adelphe-mbatchi-b6835286/](https://www.linkedin.com/in/adelphe-mbatchi-b6835286/)
 
