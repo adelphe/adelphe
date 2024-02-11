@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **Modern Data Platforms Technologies and Concepts**
 
-- 🌱 I’m currently learning Cloud technologies **Azure and AWS data solutions**
+- 🌱 I’m currently learning **Azure and AWS data solutions**
 
 - 💬 Ask me about **Data engineering and analytics**
 
