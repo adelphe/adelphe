@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelphe&label=Profile%20views&color=0e75b6&style=flat" alt="adelphe" /> </p>
 
-- 👀 I’m interested in **Modern Data platforms technolgies and concepts**
+- 👀 I’m interested in **Modern Data platforms technologies and concepts**
 
 - 🌱 I’m currently learning Cloud technologies **Azure and AWS data solutions**
 
